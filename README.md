@@ -21,7 +21,7 @@ Run `cd new-project` and `vagrant up`
 - Update [php](https://github.com/maxpou/scotch-box/blob/master/pimpMyBox/php7.md) along with this:
 
 ```
-sudo apt-get install -y php7.0 php7.0-fpm php7.0-mysql php7.0-pgsql php-redis php-curl libapache2-mod-php7.0 php7.0-mbstring php7.0-mcrypt php7.0-xml php7.0-zip htop
+sudo apt-get install -y php7.0 php7.0-fpm php7.0-mysql php7.0-pgsql php-redis php-curl libapache2-mod-php7.0 php7.0-mbstring php7.0-mcrypt php7.0-xml php7.0-zip php7.0-soap htop
 ```
 
 ## Domains + SSL
